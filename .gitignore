@@ -119,3 +119,6 @@ nbproject
 .idea
 .node_history
 releases
+
+
+docker-compose.yml
